@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 116.77 108.24">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 50px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #231f20;
+        font-family: GillSansMT-ExtraCondensedBold, 'Gill Sans MT Ext Condensed Bold';
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        font-size: 96px;
+      }
+    </style>
+  </defs>
+  <text class="cls-2" transform="translate(30.98 86.21) rotate(-180) scale(1 -1)"><tspan x="0" y="0">B</tspan></text>
+  <text class="cls-1" transform="translate(32.39 48.21)"><tspan x="0" y="0">itten</tspan><tspan x="0" y="38">erntsen</tspan></text>
+</svg>
